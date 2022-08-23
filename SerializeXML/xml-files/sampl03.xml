@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Member PlatinumMember="false">
+		<MemberName>John</MemberName>
+		<MemberEmail>john.com</MemberEmail>
+		<Age>30</Age>
+	</Member>
+	<Member PlatinumMember="true">
+		<MemberName>Ema</MemberName>
+		<MemberEmail>Ema.com</MemberEmail>
+		<Age>10</Age>
+	</Member>
+	<Member PlatinumMember="false">
+		<MemberName>Hasan</MemberName>
+		<MemberEmail>Hasan.com</MemberEmail>
+		<Age>20</Age>
+	</Member>
+	<Member PlatinumMember="true">
+		<MemberName>Mustafa</MemberName>
+		<MemberEmail>Mustafa.com</MemberEmail>
+		<Age>15</Age>
+	</Member>
+	<Member PlatinumMember="false">
+		<MemberName>David</MemberName>
+		<MemberEmail>david.com</MemberEmail>
+		<Age>25</Age>
+	</Member>
+	<Member PlatinumMember="true">
+		<MemberName>Jack</MemberName>
+		<MemberEmail>Jack.com</MemberEmail>
+		<Age>10</Age>
+	</Member>
+	<Member PlatinumMember="false">
+		<MemberName>Patrick</MemberName>
+		<MemberEmail>Patrick.com</MemberEmail>
+		<Age>25</Age>
+	</Member>
+	<Member PlatinumMember="true">
+		<MemberName>Arthur</MemberName>
+		<MemberEmail>Arthur.com</MemberEmail>
+		<Age>22</Age>
+	</Member>
+</ArrayOfMember>
